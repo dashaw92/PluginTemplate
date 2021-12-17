@@ -1,0 +1,6 @@
+name: PluginTemplate
+main: me.danny.template.PluginTemplate
+version: "${version}"
+author: Danny
+api-version: 1.18
+description: No description provided
